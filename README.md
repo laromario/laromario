@@ -1,4 +1,5 @@
-# Hi, I'm Romanenko Ivan 👋
+# Hi, I'm Romanenko Ivan <img width="50px" src="https://www.steelblue.pl/210574-medium_default/knopka-znachok-flag-ukrainy.jpg">
+
 Senior Software Engineer with more than 5 years of commertial experience. I have knowledge in backend development on Java.
 In general worked with microservice arthitectures. Big part of my acitities is open-source.
 
